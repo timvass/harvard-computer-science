@@ -14,7 +14,7 @@ int main(void)
   //Print rows with a loop
   for (int row = 0; row < height; row++)
   {
-    //Print the "a"-s
+    //Print the "a"-s with the pattern!
     for (int a = 0; a < ( row + 1); a++)
     {
       printf("a");
