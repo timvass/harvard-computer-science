@@ -1,2 +1,3 @@
 # harvard-computer-science
-This is my repo for code snippets for the Harvard "Computer Science 50" course (C, Python, JS)
+Repo for code snippets and exercises for the Harvard "Computer Science 50" course (C, Python, JS)
+
