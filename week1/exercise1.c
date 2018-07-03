@@ -9,7 +9,7 @@
 int main(void)
 {
   //Here you can write the first loop which prompts user for a number. I write here just the result
-  int height = 4;
+  int height = 3;
   
   //Print rows with a loop
   for (int row = 0; row < height; row++)
